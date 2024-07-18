@@ -5,7 +5,7 @@ Personal project - an app to enable the smooth maintenance of a residential cum 
 ## High Level Design 
 
 <p align="center">
-  <img src="./img/HLD & JSON Design.png">
+  <img src="./img/HLD and JSON Design.png">
   <br/>
 </p>
 
